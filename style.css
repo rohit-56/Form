@@ -1,0 +1,37 @@
+.heading{
+
+    top: 70px;
+    left: 300px;
+    text-align: center;
+    color: brown;
+    height: auto;
+    width: auto;
+    padding: 2%;
+   border: 3px solid;
+   border-color: black;
+   border-style: double;
+   border-width: 20px;
+
+}
+
+.form{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bolder;
+    color: chocolate;
+    padding: 1%;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 5px;
+    
+
+}
+
+.inputbox{
+    margin-left: 50px;
+    box-sizing: border-box;
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+}
